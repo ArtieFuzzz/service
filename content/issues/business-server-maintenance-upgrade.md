@@ -1,8 +1,8 @@
 ---
 title: Business Server Upgrade and Maintenance
 resolved: true
-resolvedWhen: 2023-10-03 18:03:00
-date: 2023-10-03 17:30:00
+resolvedWhen: 2023-10-03 6:03:00
+date: 2023-10-03 5:30:00
 informational: false
 affected:
   - Managed Servers
