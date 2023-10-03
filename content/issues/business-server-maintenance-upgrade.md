@@ -4,7 +4,9 @@ resolved: false
 severity: notice
 date: 2023-10-03 4:30 PM
 informational: false
-affected: Managed Servers
+affected:
+  - Managed Servers
+  - VaultWarden
 pin: true
 ---
 
