@@ -158,9 +158,10 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
-    - name: Servers
+    - name: Managed Servers
+      description: "These servers include Business (Servers I manage for other people) and Personal"
       category: Central
-    - name: Services
+    - name: VaultWarden
       category: Central
 
   # What date format to use?
@@ -282,7 +283,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: I (Artie) try my best to monitor the statuss of each service and server, if there are any interruptions, I will try to post updates here!
 
   # Tabs on homepage
   # Uncomment to enable.
@@ -292,6 +293,11 @@ params:
   #  -
   #    name: Name
   #    link: https://example.com
+  customTabs:
+    - name: Home
+      link: https://astolfo.cafe
+    - name: Maintainer
+      link: https://dev.astolfo.cafe
 
   # Disable complex server-side
   # calculations that may impact
