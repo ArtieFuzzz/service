@@ -282,7 +282,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: I (Artie) try my best to monitor the status of each service and server, if there are any interruptions, I will try to post updates here!
+  description: I (Artie) am human, I have a sleep schedule and from time to time busy. I try my best to update everyone about service statuses here!
 
   # Tabs on homepage
   # Uncomment to enable.
