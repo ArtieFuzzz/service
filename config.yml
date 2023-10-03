@@ -146,7 +146,6 @@ params:
     - name: Central
       description: Services I manage for myself and others, each server containing their respective services
       closed: true
-    - name: Empty Category
     - name: Uncategorized
       untitled: true
 
