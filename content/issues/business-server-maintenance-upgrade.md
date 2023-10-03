@@ -8,6 +8,7 @@ affected:
   - Managed Servers
   - VaultWarden
 pin: true
+section: issue
 ---
 
 Scheduled system upgrade and maintenance (ensuring packages are up to dated)
