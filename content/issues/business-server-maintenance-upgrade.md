@@ -1,7 +1,6 @@
 ---
 title: Business Server Upgrade and Maintenance
 resolved: false
-severity: notice
 date: 2023-10-03 17:30:00
 informational: false
 affected:
