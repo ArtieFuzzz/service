@@ -7,7 +7,7 @@ informational: false
 affected:
   - Managed Servers
 pin: true
-section: post
+section: issue
 ---
 
 Scheduled system upgrade and maintenance (ensuring packages are up to dated)
