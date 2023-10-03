@@ -10,3 +10,5 @@ section: issue
 ---
 
 Scheduled system upgrade and maintenance (ensuring packages are up to dated)
+
+**Starting Maintenance** The Business server will experience some down time whilst Maintenance is on-going.
