@@ -6,7 +6,6 @@ date: 2023-10-03 14:30:00
 informational: false
 affected:
   - Managed Servers
-  - VaultWarden
 pin: true
 section: issue
 ---
