@@ -10,3 +10,5 @@ section: issue
 ---
 
 Migrating the VaultWarden database from Neon.tech into a managed server
+
+**Starting migration** Database migration is starting now!
