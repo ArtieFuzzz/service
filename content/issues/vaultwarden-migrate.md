@@ -5,7 +5,7 @@ date: 2023-10-07 23:30:00
 informational: false
 affected:
   - VaultWarden
-pin: false
+pin: true
 section: issue
 ---
 
