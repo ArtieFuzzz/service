@@ -7,7 +7,7 @@ informational: false
 affected:
   - VaultWarden
 pin: false
-section: issue
+section: post
 ---
 
 Migrating the VaultWarden database from Neon.tech into a managed server
