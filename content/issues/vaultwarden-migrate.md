@@ -5,7 +5,7 @@ resolvedWhen: 2023-10-07 23:48:00
 date: 2023-10-07 23:30:00
 informational: false
 affected:
-  - VaultWarden
+  - Vaultwarden
 pin: false
 section: post
 ---
