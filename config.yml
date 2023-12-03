@@ -160,7 +160,7 @@ params:
     - name: Managed Servers
       description: "These servers include Business (Servers I manage for other people) and Personal"
       category: Uncategorized
-    - name: VaultWarden
+    - name: Vaultwarden
       category: Central
     - name: PeerTube
       category: Central
@@ -287,7 +287,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: I (Artie) am human, I have a sleep schedule and from time to time busy. I try my best to update everyone about service statuses here!
+  description: I (Artie) am human, I have a sleep schedule and from time to time, busy. I try my best to update everyone about the status of these services I host / maintain!
 
   # Tabs on homepage
   # Uncomment to enable.
