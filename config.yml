@@ -159,9 +159,14 @@ params:
   systems:
     - name: Managed Servers
       description: "These servers include Business (Servers I manage for other people) and Personal"
-      category: Central
+      category: Uncategorized
     - name: VaultWarden
       category: Central
+    - name: PeerTube
+      category: Central
+    - name: Lemmy
+      category: Central
+      
 
   # What date format to use?
   #
